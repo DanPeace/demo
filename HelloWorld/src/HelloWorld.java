@@ -31,7 +31,7 @@ public class HelloWorld {
          */
 		
         if (actualTitle.contentEquals(expectedTitle)){
-            System.out.println("Test Passed!");
+            System.out.println("Test Passed again!");
         } else {
             System.out.println("Test Failed");
         }
