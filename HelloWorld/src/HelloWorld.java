@@ -1,35 +1,30 @@
 
+//import org.openqa.selenium.*;
+//import org.openqa.selenium.chrome.ChromeDriver;
+
+
 public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
- System.out.println("Hello World");
- System.out.println("Test 1");
- System.out.println("Test 2");
- System.out.println("Test 3");
- System.out.println("Test 4");
- System.out.println("Test 5");
- System.out.println("Test 6");
- System.out.println("Test 7");
- System.out.println("Test 8");
- System.out.println("Test 9");
- System.out.println("Test 10");
- System.out.println("Test 11");
- System.out.println("Test 20");
- System.out.println("Test 21");
- System.out.println("Test 15");
- System.out.println("Test 19");
- System.out.println("Test 20");
- System.out.println("Test 21");
- System.out.println("Test 22");
- System.out.println("Test 23");
- System.out.println("Test 24");
- System.out.println("Test 25");
- System.out.println("Test 26");
- System.out.println("Test 27");
- System.out.println("Test 28");
- //'Welcome to'
- //Welcome to Job 27
+ 
+		
+		//System.setProperty("webdriver.chrome.driver","C:\\chromedriver_win32\\chromedriver.exe");
+        //WebDriver driver=new ChromeDriver();
+		//String baseurl = "http://newtours.demoaut.com";
+		//String var = "";
+		//driver.get(baseurl);
+		//var = driver.findElement(By.cssSelector("font:contains('password:')"));
+		
+		//System.out.println(var);
+
+       // driver.get("http://www.google.com");
+        System.out.println("Peace");
+		//driver.close();
+		//System.exit(0);
+		//System.out.println("Hello World");
+
+ 
  
 	}
 
