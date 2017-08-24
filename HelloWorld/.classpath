@@ -37,6 +37,5 @@
 	<classpathentry kind="lib" path="C:/selenium-java-3.5.2/lib/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/selenium-java-3.5.2/lib/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="C:/selenium-java-3.5.2/client-combined-3.5.2-nodeps.jar"/>
-	<classpathentry kind="lib" path="C:/chromedriver_win32/chromedriver.exe"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
